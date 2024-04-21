@@ -1,0 +1,17 @@
+{
+  "name": "pm2-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Venkat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "module-alias": "^2.2.3",
+    "pm2": "^5.3.0"
+  }
+}
